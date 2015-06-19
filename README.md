@@ -1,1 +1,6 @@
-Exceptional Realty Group Website 
+Exceptional Realty Group Website
+----
+
+#Description
+
+This is an example site
